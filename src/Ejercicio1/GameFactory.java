@@ -13,7 +13,7 @@ public abstract class GameFactory {
     public abstract Game CreateGame();
     
     public void PlayGame(){
-        
+        System.out.println("");
     }
     
 }
